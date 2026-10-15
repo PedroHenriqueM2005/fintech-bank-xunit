@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FintechBank.App/FintechBank.App.csproj" />
+  <Project Path="FintechBank.Tests/FintechBank.Tests.csproj" />
+</Solution>
